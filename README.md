@@ -8,8 +8,6 @@ Dirimo is a Python-based advanced network scanner designed for security research
 - Threaded fast scanning
 - Custom port lists and port ranges
 - JSON result output
-- Clean tabulated output (nmap-style)
-
-## Installation
+- Clean tabulated output 
 
 
